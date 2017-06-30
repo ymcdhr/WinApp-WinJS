@@ -7,6 +7,6 @@ WinJS是微软开发的一个javascript前端框架，当时开发的APP可以�
 该APP基本功能包括：
 点菜，下单，结账，呼叫服务员，支付等（比海底捞的好用多了）
 
-![](https://raw.githubusercontent.com/ymcdhr/Mobile-Demo/master/imgs/20170630155646.jpg)
-![](https://raw.githubusercontent.com/ymcdhr/Mobile-Demo/master/imgs/20170630155705.jpg)
-![](https://raw.githubusercontent.com/ymcdhr/Mobile-Demo/master/imgs/20170630155710.jpg)
+![](https://raw.githubusercontent.com/ymcdhr/WinApp-WinJS/master/App6/images/20170630155646.jpg)
+![](https://raw.githubusercontent.com/ymcdhr/WinApp-WinJS/master/App6/images/20170630155705.jpg)
+![](https://raw.githubusercontent.com/ymcdhr/WinApp-WinJS/master/App6/images/20170630155710.jpg)
