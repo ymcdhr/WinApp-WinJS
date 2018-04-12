@@ -1,4 +1,4 @@
-# WinApp-WinJS
+# WinJS
 微软的js框架：WinJS开发的Windows APP<br>
 
 2015年早期写的一个基于WinJS的APP，可以在Windows上流畅运行。<br>
